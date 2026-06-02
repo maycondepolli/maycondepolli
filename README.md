@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o [Maycon Depolli dos Santos]! 👋
 
-<!--
-**maycondepolli/maycondepolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou graduado em análise e desenvolvimento de sistemas e  focado em desenvolvimento e soluções com **Python**. Estou em transição de carreira / buscando minha primeira oportunidade como desenvolvedor júnior.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎓 graduado em Análise e Desenvolvimento de Sistemas 
+- 🎯 Meu foco atual é [Automação de Processos / Análise de Dados / Desenvolvimento de Software Backend e Frontend]
+- 🐍 Desenvolvendo lógica sólida e boas práticas em Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Habilidades e Ferramentas
+- **Linguagens:** Python
+- **Bibliotecas/Frameworks:** Pandas, tkinter, Requests (ou as que você usa)
+- **Ferramentas:** Git, GitHub, VS Code, SQLite
+
+### 📫 Como me encontrar
+- 💼 LinkedIn: [www.linkedin.com/in/maycondepolli]
+- 📧 E-mail: maycondepolli@gmail.com
