@@ -1,6 +1,6 @@
 # Olá, eu sou o [Maycon Depolli dos Santos]! 👋
 
-Sou graduado em análise e desenvolvimento de sistemas e  focado em desenvolvimento e soluções com **Python**. Estou em transição de carreira / buscando minha primeira oportunidade como desenvolvedor júnior.
+Sou graduado em Análise e Desenvolvimento de Sistemas e  focado em desenvolvimento e soluções com **Python**. Estou em transição de carreira / buscando minha primeira oportunidade como desenvolvedor júnior.
 
 ### 🚀 Sobre mim
 - 🎓 graduado em Análise e Desenvolvimento de Sistemas 
