@@ -9,7 +9,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e  focado em desenvolvime
 
 ### 🛠️ Habilidades e Ferramentas
 - **Linguagens:** Python
-- **Bibliotecas/Frameworks:** Pandas, tkinter, Requests (ou as que você usa)
+- **Bibliotecas/Frameworks:** Pandas, tkinter, Requests 
 - **Ferramentas:** Git, GitHub, VS Code, SQLite
 
 ### 📫 Como me encontrar
